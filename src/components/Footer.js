@@ -44,7 +44,7 @@ function Footer(){
                   </li>
                 </ul>
               </div>
-              <div className="form-group">
+              {/* <div className="form-group">
                 <textarea
                   className="update_mail"
                   placeholder="Your Email"
@@ -57,7 +57,7 @@ function Footer(){
                     <i className="fa fa-arrow-right" aria-hidden="true"></i>
                   </a>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
